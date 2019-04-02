@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1554174526 source:d:\programação\sistemas de informação\introcienciainfo\hamming74\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1554176327 source:d:\programação\sistemas de informação\introcienciainfo\hamming74\antestransmitir.c
+	<stdio.h>
+	<stdlib.h>
+
